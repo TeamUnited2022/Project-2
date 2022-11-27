@@ -30,3 +30,8 @@ Team Members:
 5. Code Demonstration
 
 ```
+
+### Communication with Moon via Kakao Talk on project #2 
+![image_123986672 (2)](https://user-images.githubusercontent.com/116862146/204128144-bae16f2b-8c01-4003-ba96-58bf98476004.JPG)
+![image_123986672 (1)](https://user-images.githubusercontent.com/116862146/204128148-83d99c0f-1944-4172-b5a8-064b9cf41d02.JPG)
+
