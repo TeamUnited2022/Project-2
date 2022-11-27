@@ -12,7 +12,7 @@ Tr = {
         "mosse": cv2.legacy.TrackerMOSSE_create
     }
 
-tracker = Tr['kcf']()
+tracker = Tr['csrt']()
 #tracker = cv2.TrackerCSRT_create()
 
 camera = True #True for Webcam, else its video
