@@ -18,7 +18,9 @@ Team Members:
 
 ### Our team member Moonseok had trouble communicating because of his mic issues so, we did communicate through zoom chat and the file from the session is also uploaded. 
 
-**Video Journal Conents**
+
+
+**Video Journal Contents**
 
 ```
 1. Team Introduction
